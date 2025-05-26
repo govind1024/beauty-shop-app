@@ -16,5 +16,31 @@ This is a sleek and modern Jetpack Compose Android UI demonstrating a beauty sho
 ---
 
 ## 📁 Project Structure
+com.beauty.shop
+│
+├── models # Data models (Category, Deal, Product)
+├── ui.theme # Color, Typography, Theme setup
+└── views # UI components (Cards, Sliders, TopBars, Indicators)
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin
+- **UI Toolkit:** Jetpack Compose
+- **Architecture:** Modular Composable components
+- **Others:** Material3, Accompanist Pager (if applicable)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+2. Open in Android Studio.
+
+Sync Gradle and Run on an emulator/device.
+   ```bash
+   git clone https://github.com/yourusername/beauty-shop-app.git
 
 
